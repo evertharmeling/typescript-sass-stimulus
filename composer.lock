@@ -2101,16 +2101,16 @@
         },
         {
             "name": "sensiolabs/typescript-bundle",
-            "version": "v0.1.0",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/AssetMapperTypeScriptBundle.git",
-                "reference": "d4a21c17d2c814bc3acabb080620046fa24c7358"
+                "reference": "c36c40e4b620d05edf4201ebdcecc8b62577420c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/AssetMapperTypeScriptBundle/zipball/d4a21c17d2c814bc3acabb080620046fa24c7358",
-                "reference": "d4a21c17d2c814bc3acabb080620046fa24c7358",
+                "url": "https://api.github.com/repos/sensiolabs/AssetMapperTypeScriptBundle/zipball/c36c40e4b620d05edf4201ebdcecc8b62577420c",
+                "reference": "c36c40e4b620d05edf4201ebdcecc8b62577420c",
                 "shasum": ""
             },
             "require": {
@@ -2143,15 +2143,16 @@
                 }
             ],
             "description": "TypeScript support for Symfony + AssetMapper",
+            "homepage": "https://github.com/sensiolabs/AssetMapperTypeScriptBundle",
             "keywords": [
                 "asset-mapper",
                 "typescript"
             ],
             "support": {
                 "issues": "https://github.com/sensiolabs/AssetMapperTypeScriptBundle/issues",
-                "source": "https://github.com/sensiolabs/AssetMapperTypeScriptBundle/tree/v0.1.0"
+                "source": "https://github.com/sensiolabs/AssetMapperTypeScriptBundle/tree/v0.1.1"
             },
-            "time": "2023-11-30T08:14:15+00:00"
+            "time": "2023-12-13T16:57:54+00:00"
         },
         {
             "name": "symfony/asset",
