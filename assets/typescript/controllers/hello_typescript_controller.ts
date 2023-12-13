@@ -11,11 +11,10 @@ import { Controller } from '@hotwired/stimulus';
  * Delete this file or adapt it for your use!
  */
 export default class extends Controller<HTMLDivElement> {
-  private element: HTMLDivElement;
-
   connect(): void {
     console.log('Loaded hello_controller.ts 🎉');
 
+    // @ts-ignore
     this.element.textContent = 'Hello Typescript Stimulus! Edit me in assets/typescript/controllers/hello_typescript_controller.ts';
   }
 }
