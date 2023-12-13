@@ -1,0 +1,7 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Homepage</h1>
+    <div {{ stimulus_controller('hello') }}></div>
+    <div {{ stimulus_controller('hello-typescript') }}></div>
+{% endblock %}

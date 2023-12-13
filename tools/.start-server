@@ -1,0 +1,4 @@
+#!/bin/bash
+
+symfony proxy:start
+symfony serve

@@ -40,6 +40,9 @@
             "tests/bootstrap.php"
         ]
     },
+    "sensiolabs/typescript-bundle": {
+        "version": "v0.1.0"
+    },
     "symfony/asset-mapper": {
         "version": "6.4",
         "recipe": {
@@ -287,6 +290,9 @@
         "files": [
             "config/packages/messenger.yaml"
         ]
+    },
+    "symfonycasts/sass-bundle": {
+        "version": "v0.3.0"
     },
     "twig/extra-bundle": {
         "version": "v3.8.0"

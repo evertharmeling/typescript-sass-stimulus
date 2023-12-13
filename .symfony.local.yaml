@@ -1,0 +1,11 @@
+proxy:
+    domains:
+        - 'typescript-sass-stimulus'
+
+workers:
+    # built-in command that builds and watches front-end assets
+     sass_build_watch:
+         cmd: ['symfony', 'console', 'sass:build', '--watch', '-v']
+
+     typescript_watch:
+         cmd: [ 'symfony', 'console', 'typescript:build', '--watch', '-v' ]
