@@ -1,3 +1,4 @@
 sensiolabs_typescript:
     source_dir:
         - '%kernel.project_dir%/assets/typescript/'
+#        - '%kernel.project_dir%/assets/typescript/controllers/hello_typescript_controller.ts'
